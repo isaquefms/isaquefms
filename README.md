@@ -7,6 +7,6 @@ Meu nome √© Isaque Fernando e atualmente sou estudante de Engenharia de Computa√
 
 Contatos:
 
-- [Telegram](@isaquefms)
+- [Telegram](https://telegram.me/isaquefms)
 - [Instagram](https://www.instagram.com/isaquefms/)
-- [Email](isaquefernando10@gmail.com)
+- [Email](mailto:isaquefernando10@gmail.com)
